@@ -11,6 +11,7 @@ Thumbs.db
 *.db
 *.db-shm
 *.db-wal
+DioMongo.Api.txt
 
 # User-specific files
 *.rsuser
